@@ -1,29 +1,29 @@
-# Ignore compiled binaries and build artifacts
-/target/
+# Ignore compiled binaries and build artifacts for all Rust projects
+**/target/
 
 # Ignore IDE and editor files
-.idea/
-.vscode/
-*.swp
-*.swo
+**/.idea/
+**/.vscode/
+**/*.swp
+**/*.swo
 
 # Ignore dependency manifests
-Cargo.lock
+**/Cargo.lock
 
 # Ignore build artifacts and logs
-debug.log
+**/debug.log
 
 # Ignore environment configuration
-.env
+**/.env
 
 # Ignore compiled documentation
-/target/doc/
+**/target/doc/
 
 # Ignore temporary files
-*~
+**/*~
 
 # Ignore Rustfmt configuration
-rustfmt.toml
+**/rustfmt.toml
 
 # Ignore Rust Language Server (RLS) cache and logs
-.rls/
+**/.rls/
