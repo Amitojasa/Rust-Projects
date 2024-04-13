@@ -1,0 +1,9 @@
+/Users/amitojsinghahuja/Desktop/Rust 50 Projects/decompress_app/target/debug/deps/libzstd_sys-b7e6d245ffee034e.rmeta: /Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/lib.rs /Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/bindings_zstd.rs /Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/bindings_zdict.rs
+
+/Users/amitojsinghahuja/Desktop/Rust 50 Projects/decompress_app/target/debug/deps/libzstd_sys-b7e6d245ffee034e.rlib: /Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/lib.rs /Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/bindings_zstd.rs /Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/bindings_zdict.rs
+
+/Users/amitojsinghahuja/Desktop/Rust 50 Projects/decompress_app/target/debug/deps/zstd_sys-b7e6d245ffee034e.d: /Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/lib.rs /Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/bindings_zstd.rs /Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/bindings_zdict.rs
+
+/Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/lib.rs:
+/Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/bindings_zstd.rs:
+/Users/amitojsinghahuja/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/src/bindings_zdict.rs:
